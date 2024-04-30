@@ -1,0 +1,15 @@
+D:\SyncFusion\Assignments\DateTime\Q7\bin\Debug\net7.0\Q7.exe
+D:\SyncFusion\Assignments\DateTime\Q7\bin\Debug\net7.0\Q7.deps.json
+D:\SyncFusion\Assignments\DateTime\Q7\bin\Debug\net7.0\Q7.runtimeconfig.json
+D:\SyncFusion\Assignments\DateTime\Q7\bin\Debug\net7.0\Q7.dll
+D:\SyncFusion\Assignments\DateTime\Q7\bin\Debug\net7.0\Q7.pdb
+D:\SyncFusion\Assignments\DateTime\Q7\obj\Debug\net7.0\Q7.csproj.AssemblyReference.cache
+D:\SyncFusion\Assignments\DateTime\Q7\obj\Debug\net7.0\Q7.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Assignments\DateTime\Q7\obj\Debug\net7.0\Q7.AssemblyInfoInputs.cache
+D:\SyncFusion\Assignments\DateTime\Q7\obj\Debug\net7.0\Q7.AssemblyInfo.cs
+D:\SyncFusion\Assignments\DateTime\Q7\obj\Debug\net7.0\Q7.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Assignments\DateTime\Q7\obj\Debug\net7.0\Q7.dll
+D:\SyncFusion\Assignments\DateTime\Q7\obj\Debug\net7.0\refint\Q7.dll
+D:\SyncFusion\Assignments\DateTime\Q7\obj\Debug\net7.0\Q7.pdb
+D:\SyncFusion\Assignments\DateTime\Q7\obj\Debug\net7.0\Q7.genruntimeconfig.cache
+D:\SyncFusion\Assignments\DateTime\Q7\obj\Debug\net7.0\ref\Q7.dll

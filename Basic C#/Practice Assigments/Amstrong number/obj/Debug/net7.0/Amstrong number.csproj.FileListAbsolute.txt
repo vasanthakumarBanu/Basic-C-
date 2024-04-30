@@ -1,0 +1,15 @@
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\bin\Debug\net7.0\Amstrong number.exe
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\bin\Debug\net7.0\Amstrong number.deps.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\bin\Debug\net7.0\Amstrong number.runtimeconfig.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\bin\Debug\net7.0\Amstrong number.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\bin\Debug\net7.0\Amstrong number.pdb
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\obj\Debug\net7.0\Amstrong number.csproj.AssemblyReference.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\obj\Debug\net7.0\Amstrong number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\obj\Debug\net7.0\Amstrong number.AssemblyInfoInputs.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\obj\Debug\net7.0\Amstrong number.AssemblyInfo.cs
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\obj\Debug\net7.0\Amstrong number.csproj.CoreCompileInputs.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\obj\Debug\net7.0\Amstrong number.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\obj\Debug\net7.0\refint\Amstrong number.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\obj\Debug\net7.0\Amstrong number.pdb
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\obj\Debug\net7.0\Amstrong number.genruntimeconfig.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Amstrong number\obj\Debug\net7.0\ref\Amstrong number.dll

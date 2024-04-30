@@ -1,0 +1,15 @@
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\bin\Debug\net7.0\Q1.exe
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\bin\Debug\net7.0\Q1.deps.json
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\bin\Debug\net7.0\Q1.runtimeconfig.json
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\bin\Debug\net7.0\Q1.dll
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\bin\Debug\net7.0\Q1.pdb
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\obj\Debug\net7.0\Q1.csproj.AssemblyReference.cache
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\obj\Debug\net7.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\obj\Debug\net7.0\Q1.AssemblyInfoInputs.cache
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\obj\Debug\net7.0\Q1.AssemblyInfo.cs
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\obj\Debug\net7.0\Q1.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\obj\Debug\net7.0\Q1.dll
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\obj\Debug\net7.0\refint\Q1.dll
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\obj\Debug\net7.0\Q1.pdb
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\obj\Debug\net7.0\Q1.genruntimeconfig.cache
+D:\SyncFusion\Assignments\Assigmnets Set -5\Q1\obj\Debug\net7.0\ref\Q1.dll

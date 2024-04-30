@@ -1,0 +1,15 @@
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\bin\Debug\net7.0\Pyramid.exe
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\bin\Debug\net7.0\Pyramid.deps.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\bin\Debug\net7.0\Pyramid.runtimeconfig.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\bin\Debug\net7.0\Pyramid.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\bin\Debug\net7.0\Pyramid.pdb
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\obj\Debug\net7.0\Pyramid.csproj.AssemblyReference.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\obj\Debug\net7.0\Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\obj\Debug\net7.0\Pyramid.AssemblyInfoInputs.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\obj\Debug\net7.0\Pyramid.AssemblyInfo.cs
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\obj\Debug\net7.0\Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\obj\Debug\net7.0\Pyramid.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\obj\Debug\net7.0\refint\Pyramid.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\obj\Debug\net7.0\Pyramid.pdb
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\obj\Debug\net7.0\Pyramid.genruntimeconfig.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Pyramid\obj\Debug\net7.0\ref\Pyramid.dll

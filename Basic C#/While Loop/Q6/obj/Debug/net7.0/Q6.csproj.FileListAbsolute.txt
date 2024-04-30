@@ -1,0 +1,15 @@
+D:\SyncFusion\Assignments\While Loop\Q6\bin\Debug\net7.0\Q6.exe
+D:\SyncFusion\Assignments\While Loop\Q6\bin\Debug\net7.0\Q6.deps.json
+D:\SyncFusion\Assignments\While Loop\Q6\bin\Debug\net7.0\Q6.runtimeconfig.json
+D:\SyncFusion\Assignments\While Loop\Q6\bin\Debug\net7.0\Q6.dll
+D:\SyncFusion\Assignments\While Loop\Q6\bin\Debug\net7.0\Q6.pdb
+D:\SyncFusion\Assignments\While Loop\Q6\obj\Debug\net7.0\Q6.csproj.AssemblyReference.cache
+D:\SyncFusion\Assignments\While Loop\Q6\obj\Debug\net7.0\Q6.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Assignments\While Loop\Q6\obj\Debug\net7.0\Q6.AssemblyInfoInputs.cache
+D:\SyncFusion\Assignments\While Loop\Q6\obj\Debug\net7.0\Q6.AssemblyInfo.cs
+D:\SyncFusion\Assignments\While Loop\Q6\obj\Debug\net7.0\Q6.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Assignments\While Loop\Q6\obj\Debug\net7.0\Q6.dll
+D:\SyncFusion\Assignments\While Loop\Q6\obj\Debug\net7.0\refint\Q6.dll
+D:\SyncFusion\Assignments\While Loop\Q6\obj\Debug\net7.0\Q6.pdb
+D:\SyncFusion\Assignments\While Loop\Q6\obj\Debug\net7.0\Q6.genruntimeconfig.cache
+D:\SyncFusion\Assignments\While Loop\Q6\obj\Debug\net7.0\ref\Q6.dll

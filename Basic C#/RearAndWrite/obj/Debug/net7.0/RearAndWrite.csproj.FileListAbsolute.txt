@@ -1,0 +1,15 @@
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\bin\Debug\net7.0\RearAndWrite.exe
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\bin\Debug\net7.0\RearAndWrite.deps.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\bin\Debug\net7.0\RearAndWrite.runtimeconfig.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\bin\Debug\net7.0\RearAndWrite.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\bin\Debug\net7.0\RearAndWrite.pdb
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\obj\Debug\net7.0\RearAndWrite.csproj.AssemblyReference.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\obj\Debug\net7.0\RearAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\obj\Debug\net7.0\RearAndWrite.AssemblyInfoInputs.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\obj\Debug\net7.0\RearAndWrite.AssemblyInfo.cs
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\obj\Debug\net7.0\RearAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\obj\Debug\net7.0\RearAndWrite.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\obj\Debug\net7.0\refint\RearAndWrite.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\obj\Debug\net7.0\RearAndWrite.pdb
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\obj\Debug\net7.0\RearAndWrite.genruntimeconfig.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\RearAndWrite\obj\Debug\net7.0\ref\RearAndWrite.dll

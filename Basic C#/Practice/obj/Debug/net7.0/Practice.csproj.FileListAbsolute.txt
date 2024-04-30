@@ -1,0 +1,15 @@
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\bin\Debug\net7.0\Practice.exe
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\bin\Debug\net7.0\Practice.deps.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\bin\Debug\net7.0\Practice.runtimeconfig.json
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\bin\Debug\net7.0\Practice.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\bin\Debug\net7.0\Practice.pdb
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\obj\Debug\net7.0\Practice.csproj.AssemblyReference.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\obj\Debug\net7.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\obj\Debug\net7.0\Practice.AssemblyInfoInputs.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\obj\Debug\net7.0\Practice.AssemblyInfo.cs
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\obj\Debug\net7.0\Practice.csproj.CoreCompileInputs.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\obj\Debug\net7.0\Practice.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\obj\Debug\net7.0\refint\Practice.dll
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\obj\Debug\net7.0\Practice.pdb
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\obj\Debug\net7.0\Practice.genruntimeconfig.cache
+C:\Users\VasanthakumarBanukum\OneDrive - Syncfusion\Desktop\Practice\obj\Debug\net7.0\ref\Practice.dll

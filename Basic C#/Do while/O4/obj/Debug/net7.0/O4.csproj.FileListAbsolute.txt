@@ -1,0 +1,15 @@
+D:\SyncFusion\Assignments\Do while\O4\bin\Debug\net7.0\O4.exe
+D:\SyncFusion\Assignments\Do while\O4\bin\Debug\net7.0\O4.deps.json
+D:\SyncFusion\Assignments\Do while\O4\bin\Debug\net7.0\O4.runtimeconfig.json
+D:\SyncFusion\Assignments\Do while\O4\bin\Debug\net7.0\O4.dll
+D:\SyncFusion\Assignments\Do while\O4\bin\Debug\net7.0\O4.pdb
+D:\SyncFusion\Assignments\Do while\O4\obj\Debug\net7.0\O4.csproj.AssemblyReference.cache
+D:\SyncFusion\Assignments\Do while\O4\obj\Debug\net7.0\O4.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Assignments\Do while\O4\obj\Debug\net7.0\O4.AssemblyInfoInputs.cache
+D:\SyncFusion\Assignments\Do while\O4\obj\Debug\net7.0\O4.AssemblyInfo.cs
+D:\SyncFusion\Assignments\Do while\O4\obj\Debug\net7.0\O4.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Assignments\Do while\O4\obj\Debug\net7.0\O4.dll
+D:\SyncFusion\Assignments\Do while\O4\obj\Debug\net7.0\refint\O4.dll
+D:\SyncFusion\Assignments\Do while\O4\obj\Debug\net7.0\O4.pdb
+D:\SyncFusion\Assignments\Do while\O4\obj\Debug\net7.0\O4.genruntimeconfig.cache
+D:\SyncFusion\Assignments\Do while\O4\obj\Debug\net7.0\ref\O4.dll

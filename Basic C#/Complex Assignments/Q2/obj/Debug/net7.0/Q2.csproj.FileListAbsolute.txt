@@ -1,0 +1,15 @@
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\bin\Debug\net7.0\Q2.exe
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\bin\Debug\net7.0\Q2.deps.json
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\bin\Debug\net7.0\Q2.runtimeconfig.json
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\bin\Debug\net7.0\Q2.dll
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\bin\Debug\net7.0\Q2.pdb
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\obj\Debug\net7.0\Q2.csproj.AssemblyReference.cache
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\obj\Debug\net7.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\obj\Debug\net7.0\Q2.AssemblyInfoInputs.cache
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\obj\Debug\net7.0\Q2.AssemblyInfo.cs
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\obj\Debug\net7.0\Q2.csproj.CoreCompileInputs.cache
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\obj\Debug\net7.0\Q2.dll
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\obj\Debug\net7.0\refint\Q2.dll
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\obj\Debug\net7.0\Q2.pdb
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\obj\Debug\net7.0\Q2.genruntimeconfig.cache
+D:\SyncFusion\Phase -I\Assignments\Complex Assignments\Q2\obj\Debug\net7.0\ref\Q2.dll
